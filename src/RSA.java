@@ -1,14 +1,6 @@
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.concurrent.ThreadLocalRandom;
-
-/*        --------------------------------------------
-          |      "CLASS" DEVELOPED BY "Klio" :3    |
-          |       University of Trieste Student      |
-          |               (First Year)               |
-          --------------------------------------------
-*/
-
 public class RSA {
 
     //made these public because there would have been too many getters....and it sucks
